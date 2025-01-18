@@ -1,5 +1,16 @@
 # unplugin-vue-macros
 
+## 2.13.9
+### Patch Changes
+
+
+
+- [#872](https://github.com/vue-macros/vue-macros/pull/872) [`cf931b5`](https://github.com/vue-macros/vue-macros/commit/cf931b57d121568c6cfbd67e644564c707bc299b) Thanks [@zhiyuanzmj](https://github.com/zhiyuanzmj)! - support Vue SFC for jsx-directive
+
+- Updated dependencies [[`cf931b5`](https://github.com/vue-macros/vue-macros/commit/cf931b57d121568c6cfbd67e644564c707bc299b)]:
+  - @vue-macros/jsx-directive@0.10.0
+  - @vue-macros/config@0.5.1
+
 ## 2.13.8
 ### Patch Changes
 
